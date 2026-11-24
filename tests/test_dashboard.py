@@ -13,8 +13,4 @@ class DashboardTests(unittest.TestCase):
     def test_monthly_sales_report(self):
         self.assertEqual(dashboard.monthly_sales_report([2, 3, 1]), 2)
 
-    def test_yearly_sales_report(self):
-            self.assertEqual(dashboard.monthly_sales_report([2, 3, 1]), 2)
-    
-        
     

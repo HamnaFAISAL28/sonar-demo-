@@ -121,7 +121,7 @@ def monthly_sales_report(sales):
     return average
 
 
-def yearly_sales_report(sales):
+def monthly_sales_report(sales):
     total = 0
     count = 0
     highest = sales[0]
