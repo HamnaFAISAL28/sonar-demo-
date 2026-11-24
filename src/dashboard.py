@@ -197,4 +197,4 @@ def monthly_sales_report(sales):
     print("Below average:", below)
     print("On average:", equal)
 
-   \
+   
