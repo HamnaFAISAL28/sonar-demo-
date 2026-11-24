@@ -158,8 +158,8 @@ def monthly_sales_report(sales):
     print("Above average:", above)
     print("Below average:", below)
     print("On average:", equal)
-
-    def monthly_sales_report(sales):
+    
+def monthly_sales_report(sales):
     total = 0
     count = 0
     highest = sales[0]
@@ -196,10 +196,5 @@ def monthly_sales_report(sales):
     print("Above average:", above)
     print("Below average:", below)
     print("On average:", equal)
-    print("Variance:", variance)
-    return average
 
-
-    print("Variance:", variance)
-    return average
-
+   \
