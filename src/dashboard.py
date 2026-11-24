@@ -158,6 +158,7 @@ def monthly_sales_report(sales):
     print("Above average:", above)
     print("Below average:", below)
     print("On average:", equal)
+    return average
     
 def monthly_sales_report(sales):
     total = 0
@@ -196,5 +197,6 @@ def monthly_sales_report(sales):
     print("Above average:", above)
     print("Below average:", below)
     print("On average:", equal)
+    return average
 
    
