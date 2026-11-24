@@ -1,6 +1,6 @@
 {
   "sonarlint.connectedMode.project": {
-    "connectionId": "sonarcloud",
-    "projectKey": "fatimak-28_sonar-demo"
+    "connectionId": "hamnafaisal28",
+    "projectKey": "HamnaFAISAL28_sonar-demo2"
   }
 }
